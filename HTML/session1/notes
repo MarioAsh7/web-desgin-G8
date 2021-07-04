@@ -1,0 +1,37 @@
+-- Block Elements 
+    1 - Heading 1:6
+    2 - paragraph (p)
+    3 - hr
+    4 - ul & ol
+
+
+-- Inline Elements
+    1 - span
+    2 - a  
+    3 - img 
+
+
+
+
+-- anchor attributes
+ 1 - href ==> page name / url
+ 2 - target ==> _self(default) , _blank , name of iframe    
+
+-- attributes for any Elements
+ 1 - title 
+
+-- self close tags
+ 1 - hr
+ 2 - img
+
+-- img attributes
+ 1 - src (source) ==> image file path / url
+ 2 - width ==> px / % Recommended
+ 3 - height ==> px 
+ 4 - alt
+
+-- ul Attribute 
+ 1 - type ==> circle , square , disc (default)
+
+-- ol attribute 
+ 1 - type ==> 1 (default) , A , a , I , i
